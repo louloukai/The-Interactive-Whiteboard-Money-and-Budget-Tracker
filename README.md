@@ -1,8 +1,8 @@
 # PROJECT TITLE: The Interactive Whiteboard (Money and Budget Tracker)
 ## Problem Statement:
  Our project recognizes the following situations:
-Problems with handling money
-Problems with spending money
+Problems with handling money,
+Problems with spending money,
 Problems with allocating and budgeting money
 
 ## Features:
